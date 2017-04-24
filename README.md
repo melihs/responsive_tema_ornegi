@@ -1,1 +1,1 @@
-# bootstrap_blogger_tema_ornegi
+# bootstrap ile basit responsive tema
